@@ -12086,15 +12086,30 @@
             "status": "active",
             "symbol": "pbron",
             "type": "Solana"
+        },
+        {
+            "address": "2zMqyX4AYCk6mgy5UZ2S7zUaLxwERhK5WjqDzkPPbSpW",
+            "asset_id": "cmuwivwyj0006pcfmw7y7buap",
+            "chainId": 1,
+            "decimals": 9,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://explorer.solana.com/address/2zMqyX4AYCk6mgy5UZ2S7zUaLxwERhK5WjqDzkPPbSpW",
+            "externalId": "tokenised-gbp",
+            "logoUri": "assets/cmuwivwyj0006pcfmw7y7buap/logo.png",
+            "name": "Tokenised GBP",
+            "status": "active",
+            "symbol": "tgbp",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Solana",
     "status": "active",
-    "timestamp": "2026-09-10T09:56:27.256Z",
+    "timestamp": "2026-10-06T10:15:06.558Z",
     "version": {
         "major": 0,
         "minor": 4,
-        "patch": 6
+        "patch": 7
     }
 }

@@ -23861,15 +23861,30 @@
             "status": "active",
             "symbol": "jggl",
             "type": "ERC20"
+        },
+        {
+            "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+            "asset_id": "cmuwivmmo0000pcfmotfpor6k",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x27f6c8289550fce67f6b50bed1f519966afe5287",
+            "externalId": "tokenised-gbp",
+            "logoUri": "assets/cmuwivmmo0000pcfmotfpor6k/logo.png",
+            "name": "Tokenised GBP",
+            "status": "active",
+            "symbol": "tgbp",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2026-09-10T13:00:00.000Z",
+    "timestamp": "2026-10-06T10:15:06.558Z",
     "version": {
         "major": 0,
         "minor": 6,
-        "patch": 6
+        "patch": 7
     }
 }

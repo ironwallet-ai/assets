@@ -18224,15 +18224,30 @@
       "status": "active",
       "symbol": "pbron",
       "type": "BEP20"
+    },
+    {
+      "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+      "asset_id": "cmuwivqmq0001pcfm771voks0",
+      "chainId": 56,
+      "decimals": 18,
+      "default": false,
+      "displayDecimals": 4,
+      "explorer": "https://bscscan.com/token/0x27f6c8289550fce67f6b50bed1f519966afe5287",
+      "externalId": "tokenised-gbp",
+      "logoUri": "assets/cmuwivqmq0001pcfm771voks0/logo.png",
+      "name": "Tokenised GBP",
+      "status": "active",
+      "symbol": "tgbp",
+      "type": "BEP20"
     }
   ],
   "logoUri": "",
   "name": "Iron Wallet: Binance Smart Chain",
   "status": "active",
-  "timestamp": "2026-09-10T13:00:00.000Z",
+  "timestamp": "2026-10-06T10:15:06.558Z",
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 5
+    "patch": 6
   }
 }

@@ -50,11 +50,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-            "externalId": "usd-coin",
+            "externalId": "bridged-usdc-polygon-pos-bridge",
             "logoUri": "assets/clgmuz45m00013guzglqbxbsb/logo.png",
-            "name": "USD Coin (PoS)",
+            "name": "Polygon Bridged USDC (Polygon PoS)",
             "status": "active",
-            "symbol": "USDC",
+            "symbol": "usdc.e",
             "type": "Polygon"
         },
         {
@@ -2597,7 +2597,7 @@
             "asset_id": "clswxohb407p38cuh0gye9oaz",
             "chainId": 137,
             "decimals": 6,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
             "externalId": "usd-coin",
@@ -4001,15 +4001,30 @@
             "status": "active",
             "symbol": "handl",
             "type": "Polygon"
+        },
+        {
+            "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+            "asset_id": "cmuwivt2q0002pcfm4w8urmwb",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://polygonscan.com/token/0x27f6c8289550fce67f6b50bed1f519966afe5287",
+            "externalId": "tokenised-gbp",
+            "logoUri": "assets/cmuwivt2q0002pcfm4w8urmwb/logo.png",
+            "name": "Tokenised GBP",
+            "status": "active",
+            "symbol": "tgbp",
+            "type": "Polygon"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Polygon",
     "status": "active",
-    "timestamp": "2026-09-04T08:33:49.197Z",
+    "timestamp": "2026-10-06T10:15:06.558Z",
     "version": {
         "major": 0,
         "minor": 3,
-        "patch": 3
+        "patch": 4
     }
 }
