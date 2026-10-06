@@ -2111,15 +2111,30 @@
             "status": "active",
             "symbol": "yom",
             "type": "Avalanche"
+        },
+        {
+            "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+            "asset_id": "cmuwivuzc0004pcfmrfqrm80k",
+            "chainId": 43114,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://snowtrace.io/token/0x27f6c8289550fce67f6b50bed1f519966afe5287",
+            "externalId": "tokenised-gbp",
+            "logoUri": "assets/cmuwivuzc0004pcfmrfqrm80k/logo.png",
+            "name": "Tokenised GBP",
+            "status": "active",
+            "symbol": "tgbp",
+            "type": "Avalanche"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Avalanche Mainnet",
     "status": "active",
-    "timestamp": "2026-09-10T09:56:27.256Z",
+    "timestamp": "2026-10-06T10:15:06.558Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 4
+        "patch": 5
     }
 }
