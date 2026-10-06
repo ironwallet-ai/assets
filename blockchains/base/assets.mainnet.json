@@ -7496,15 +7496,30 @@
             "status": "active",
             "symbol": "handl",
             "type": "Base"
+        },
+        {
+            "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+            "asset_id": "cmuwivvvq0005pcfmpp71oswc",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://basescan.org/token/0x27f6c8289550fce67f6b50bed1f519966afe5287",
+            "externalId": "tokenised-gbp",
+            "logoUri": "assets/cmuwivvvq0005pcfmpp71oswc/logo.png",
+            "name": "Tokenised GBP",
+            "status": "active",
+            "symbol": "tgbp",
+            "type": "Base"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Base",
     "status": "active",
-    "timestamp": "2026-09-10T09:56:27.256Z",
+    "timestamp": "2026-10-06T10:15:06.558Z",
     "version": {
         "major": 0,
-        "minor": 1,
-        "patch": 11
+        "minor": 2,
+        "patch": 0
     }
 }
