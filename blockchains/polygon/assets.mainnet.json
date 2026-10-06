@@ -50,11 +50,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-            "externalId": "usd-coin",
+            "externalId": "bridged-usdc-polygon-pos-bridge",
             "logoUri": "assets/clgmuz45m00013guzglqbxbsb/logo.png",
-            "name": "USD Coin (PoS)",
+            "name": "Polygon Bridged USDC (Polygon PoS)",
             "status": "active",
-            "symbol": "USDC",
+            "symbol": "usdc.e",
             "type": "Polygon"
         },
         {
