@@ -4016,15 +4016,45 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Polygon"
+        },
+        {
+            "asset_id": "cd085d68d81fd4862a1576deb",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "jpycoin",
+            "logoUri": "assets/cd085d68d81fd4862a1576deb/logo.png",
+            "name": "JPY Coin",
+            "status": "active",
+            "symbol": "JPYC",
+            "type": "Polygon",
+            "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+            "explorer": "https://polygonscan.com/token/0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29"
+        },
+        {
+            "asset_id": "cf48c231dd708430788519c72",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "telcoin-2",
+            "logoUri": "assets/cf48c231dd708430788519c72/logo.png",
+            "name": "Telcoin",
+            "status": "active",
+            "symbol": "TEL",
+            "type": "Polygon",
+            "address": "0x7E13B43065380aCdeC1c2d138c579cbBbafA0731",
+            "explorer": "https://polygonscan.com/token/0x7E13B43065380aCdeC1c2d138c579cbBbafA0731"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Polygon",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-09T09:43:54.860Z",
     "version": {
         "major": 0,
         "minor": 3,
-        "patch": 4
+        "patch": 5
     }
 }
