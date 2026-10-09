@@ -12101,15 +12101,90 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Solana"
+        },
+        {
+            "asset_id": "c9af5f32b2bb5444394de1242",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "baton-3",
+            "logoUri": "assets/c9af5f32b2bb5444394de1242/logo.png",
+            "name": "baton",
+            "status": "active",
+            "symbol": "BATON",
+            "type": "Solana",
+            "address": "Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump",
+            "explorer": "https://explorer.solana.com/address/Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump"
+        },
+        {
+            "asset_id": "ca811bba3cad043929bf3592f",
+            "chainId": 1,
+            "decimals": 9,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "anonymous-cat",
+            "logoUri": "assets/ca811bba3cad043929bf3592f/logo.png",
+            "name": "Anonymous Cat",
+            "status": "active",
+            "symbol": "ZCAT",
+            "type": "Solana",
+            "address": "HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR",
+            "explorer": "https://explorer.solana.com/address/HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR"
+        },
+        {
+            "asset_id": "c5c66d952a7334beebf5185c8",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "embercurve",
+            "logoUri": "assets/c5c66d952a7334beebf5185c8/logo.png",
+            "name": "embercurve",
+            "status": "active",
+            "symbol": "EMBER",
+            "type": "Solana",
+            "address": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+            "explorer": "https://explorer.solana.com/address/5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6"
+        },
+        {
+            "asset_id": "c18c79a37552d45fbb145a0b2",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "knots",
+            "logoUri": "assets/c18c79a37552d45fbb145a0b2/logo.png",
+            "name": "KNOTS",
+            "status": "active",
+            "symbol": "KNOTS",
+            "type": "Solana",
+            "address": "8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS",
+            "explorer": "https://explorer.solana.com/address/8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS"
+        },
+        {
+            "asset_id": "c7d8dd9b223884beaa63c433f",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "hot-bot",
+            "logoUri": "assets/c7d8dd9b223884beaa63c433f/logo.png",
+            "name": "Hot Bot",
+            "status": "active",
+            "symbol": "HOTBOT",
+            "type": "Solana",
+            "address": "8nnaeWCw8mUypcGAgbmSuzAT85uWx4UN12adDrMhXrGF",
+            "explorer": "https://explorer.solana.com/address/8nnaeWCw8mUypcGAgbmSuzAT85uWx4UN12adDrMhXrGF"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Solana",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-09T09:43:54.860Z",
     "version": {
         "major": 0,
         "minor": 4,
-        "patch": 7
+        "patch": 8
     }
 }

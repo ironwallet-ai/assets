@@ -2126,15 +2126,30 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Avalanche"
+        },
+        {
+            "asset_id": "cfa58cecb8af54540b3d91aba",
+            "chainId": 43114,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "jpycoin",
+            "logoUri": "assets/cfa58cecb8af54540b3d91aba/logo.png",
+            "name": "JPY Coin",
+            "status": "active",
+            "symbol": "JPYC",
+            "type": "Avalanche",
+            "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+            "explorer": "https://snowtrace.io/token/0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Avalanche Mainnet",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-09T09:43:54.860Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 5
+        "patch": 6
     }
 }
